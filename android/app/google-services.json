@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "144302813835",
+    "firebase_url": "https://mango-hotel-reservation-834a5.firebaseio.com",
+    "project_id": "mango-hotel-reservation-834a5",
+    "storage_bucket": "mango-hotel-reservation-834a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144302813835:android:47c873ad539881eabf5a8e",
+        "android_client_info": {
+          "package_name": "com.layoutindex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144302813835-t8ikpqvbiufto0cvf3rpea20o9s5n0m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADWbPvFddOO8TSf1EcEniEm61UPsjFDdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144302813835-t8ikpqvbiufto0cvf3rpea20o9s5n0m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
